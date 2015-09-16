@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:31.111600
+#+DATE: 2015-08-30 21:00:32.099792
 #+TITLE: 菩提心觀釋
 #+PROPERTY: CBETA_ID T32n1663
 #+PROPERTY: ID KR6o0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1663
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0068_T_000-0562a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0068_T_001-0562a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1663¶
-
- 菩提心觀釋¶
+No. 1663¶
+菩提心觀釋¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
 傳教大師臣法天奉　詔譯¶
