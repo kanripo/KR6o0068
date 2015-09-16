@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:31.111600
+#+DATE: 2015-08-30 21:00:31.729306
 #+TITLE: 菩提心觀釋
 #+PROPERTY: CBETA_ID T32n1663
 #+PROPERTY: ID KR6o0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1663
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6o0068_T_000-0562a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0068_T_001-0562a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1663¶
-
- 菩提心觀釋¶
+No. 1663¶
+菩提心觀釋¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳教大師臣法天奉　詔譯¶
+宋西天譯經三藏朝散大夫試鴻臚卿¶
+傳教大師法天譯¶
 
 #+BEGIN_VERSE
 「　歸命本師
@@ -65,7 +64,7 @@ No.1663¶
 蘊處界。各各分別自性皆空。彼非無性即真¶
 實句。喻無種子不生芽莖。是故說彼蘊處界¶
 等亦離取捨。云何菩提心無取無捨。如佛所¶
-說。告祕密主彼菩提心。如來應正等覺了¶
+說。告祕密主彼菩提心。如來應正覺了¶
 知彼心。非青非黃。非赤非白。非紅色非頗胝¶
 迦色。非短非長。非圓非方。非明非暗。非女¶
 非男。非黃門等。又祕密主。菩提心非欲界¶
