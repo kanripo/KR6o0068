@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩提心觀釋
+#+DATE: 2015-08-30 21:00:31.306747
+#+PROPERTY: JUAN 0
