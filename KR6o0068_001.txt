@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:31.111600
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:55
 #+TITLE: 菩提心觀釋
 #+PROPERTY: CBETA_ID T32n1663
 #+PROPERTY: ID KR6o0068
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1663
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0068_T_000-0562a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0068_T_001-0562a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1663¶
-
- 菩提心觀釋¶
+No. 1663¶
+菩提心觀釋¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
 傳教大師臣法天奉　詔譯¶
@@ -23,9 +22,9 @@ No.1663¶
 「　歸命本師
 　大覺世尊
 　我今略釋¶
-　菩提心觀
+　菩提心觀」
 #+END_VERSE
-」¶
+¶
 
 如佛所說。從心生一切法。我今當議彼菩提¶
 心。云何性。答離一切性。云何一切性。謂蘊¶
